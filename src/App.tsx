@@ -1,5 +1,5 @@
 import "./App.css";
-import { Heading, About, Gallery, Navbar, SpecialMenu, Cuisiner, Video, Awards } from "./components";
+import { Heading, About, Gallery, Navbar, SpecialMenu, Cuisiner, Video, Awards, Footer, LocateUs } from "./components";
 
 function App() {
   return (
@@ -12,6 +12,8 @@ function App() {
       <Video />
       <Awards />
       <Gallery />
+      <LocateUs />
+      <Footer />
     </>
   );
 }

@@ -7,7 +7,7 @@ const LocateUs = () => {
     <section className="bg-[url('./assets/bg.png')] bg-cover bg-fixed bg-center bg-repeat flex justify-between min-h-screen items-center py-16 px-20 max-sm:p-16 max-ss:px-8 max-sm:flex-col">
         <div className="flex w-full flex-1 flex-col items-start justify-center">
             <SubHeading title="Contact" />
-            <h1 className="capitalize tracking-wider text-6xl mb-12 text-golden font-cormorant xxl:text-9xl xxl:leading-[200px] max-xs:text-4xl max-xs:leading-[65px]">
+            <h1 className="capitalize tracking-wider text-6xl mb-12 text-golden font-cormorant xxl:text-9xl xxl:leading-[200px] max-xs:text-4xl max-xs:leading-[65px] max-ss:mb-6">
                 locate us
             </h1>
 
@@ -19,10 +19,10 @@ const LocateUs = () => {
                     Opening Hours
                 </p>
                 <p className="text-white font-openSans text-base capitalize tracking-wider font-normal max-xs:text-xs max-ss:text-sm xxl:text-3xl xxl:leading-[50px] max-sm:leading-6 max-xs:leading-5 leading-7">
-                    Mon - Fri: 10AM - 9PM
+                    Mon - Fri: 7AM - 11PM
                 </p>
                 <p className="text-white font-openSans text-base capitalize tracking-wider font-normal max-xs:text-xs max-ss:text-sm xxl:text-3xl xxl:leading-[50px] max-sm:leading-6 max-xs:leading-5 leading-7">
-                    Mon - Fri: 10AM - 9PM
+                    Sat - Sun: 7AM - 8PM
                 </p>
             </div>
 

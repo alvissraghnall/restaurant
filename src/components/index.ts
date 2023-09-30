@@ -8,3 +8,4 @@ export {default as Video } from "./Video";
 export {default as Awards } from "./Awards"; 
 export {default as Gallery } from "./Gallery"; 
 export {default as LocateUs } from "./LocateUs"; 
+export {default as Footer } from "./Footer"; 
